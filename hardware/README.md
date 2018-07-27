@@ -16,3 +16,6 @@ PCB files are under preparation
 5. Demultiplexer: T74LS138B1
 6. ADC (QTY = 2 tested, QTY = 4 in circuit diagram): MCP3008
 7. Pullup resistors on multi-chip select lines: (QTY = 2 or 4) approximately 100 kOhm
+
+## Notes
+Pin 13 on the 74595 is labeled as "G" on the schematic but appears instead as "~OE" on most datasheets, for "complimentary output enable".  It should be connected to GND for this application.
