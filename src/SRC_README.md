@@ -1,5 +1,5 @@
 # Directory of source files for multiSPI
-## Installation instructions
+## Installation
 1. bcm2835 library
 2. multiSPI
 ## Usage
