@@ -1,11 +1,13 @@
 # Hardware design files for multiSPI test board
 
 ## Contents
-Schematic only so far, prepared in EAGLE 9.1.0, and using DIP format comonents
+Schematic prepared in EAGLE 9.1.0, and using DIP format comonents
 
 Available as .png, .pdf, and EAGLE .sch files
 
-PCB files are under preparation
+PCB files are now also attached as .brd and well as an image as multiSPI2.pdf
+
+First PCB has been ordered from OSH Park!  [https://oshpark.com/shared_projects/Ye1AAnSY](https://oshpark.com/shared_projects/Ye1AAnSY)
 
 ## Hardware used for tests
 
