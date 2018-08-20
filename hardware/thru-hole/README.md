@@ -21,3 +21,5 @@ First PCB has been ordered from OSH Park!  [https://oshpark.com/shared_projects/
 
 ## Notes
 Pin 13 on the 74595 is labeled as "G" on the schematic but appears instead as "~OE" on most datasheets, for "complimentary output enable".  It should be connected to GND for this application.
+
+There is a missing GND on one of the terminal headers.
